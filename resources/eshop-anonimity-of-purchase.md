@@ -26,3 +26,12 @@ The order contain information that can associate your deposit with withdrawal. T
 Make sure you delete any cookies related to your eShop before utilizing a VPN or Tor, otherwise the cookies will enable the eShop to associate the different IP addresses you've been using with the same user. A recommended method to do this is to utilize another personality (browser, wallet, IP) for the assets of your new location. 
 
 Using an open RPC with each of your wallets enables to infer a connection between your addresses, so if you utilize a similar IP or API token for all your online identities. That scenario could occur with Metamask if you use it for every of your addresses, since Metamask uses the same API token for every one of your requests.
+
+Please bear in mind: the above suggestions are meant for optimal security, they wouldn't be necessary in most scenarios.
+
+### Protection At The Chain Level
+
+As a blockchain, Ethereum establishes total transaction ordering, which enables anyone to know exactly what transaction happened before the next.
+When it comes to purchasing, total ordering enables to make fairly accurate guesses on who receives and spends.
+
+
