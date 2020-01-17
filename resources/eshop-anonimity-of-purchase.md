@@ -9,23 +9,11 @@ The good news is that you can offer them a solid level of privacy by giving them
 
 ### What Protection Do We Want To Offer?
 
-The assumption we're having is that if your shop sends an item to your customer, this transaction will be protected by confidentiality: you and your customer only will know about what was sent and to whom. 
-
 Let's make the following assumption: you want your eShop to protect your customers privacy: whatever happens in your eShop stays in your eShop, no one (except the law enforcement provided with a search warrant) is supposed to know, or guess, what was bought.  
 
 If the above statement matches your expectation, let's get to it: the following will demonstrate how to enable customer privacy.
 
-
-
 ### Protection At The Internet Level
 
 As you probably know, the internet was not build with anonymity in mind, and it's pretty trivial to infer someone's identity based on their IP address. 
-
-
-
-
-
-
-
-
 
