@@ -32,6 +32,15 @@ Please bear in mind: the above suggestions are meant for optimal security, they 
 ### Protection At The Chain Level
 
 As a blockchain, Ethereum establishes total transaction ordering, which enables anyone to know exactly what transaction happened before the next.
-When it comes to purchasing, total ordering enables to make fairly accurate guesses on who receives and spends.
+When it comes to purchasing, total ordering enables anyone to correlate transactions with a fair level of accuracy.
 
+For instance: if a deposit and a withdrawal have been made at close intervals, chances are they belong to the same person, it is therefore good practice to wait at least twenty-four hours between a deposit and an interval.
+ 
+If there is a batch of deposits from one address, and then a batch of the same size of withdrawals to a single address, they are very likely connected. If you need to make multiple withdrawals, try to spread them out and withdraw to addresses not linked with each other.
+
+In the context of an eShop, than means spacing orders and using different addresses.
+
+Tools like Tornado.cash will help you add a strong layer of anonymity in the purchasing process. 
+
+Let's be entirely honest, the above recommendations are an absolute overkill if your intention is just to acquire items to spice your couple life. Our point was simply to help anyone willing to setup an Ethereum eShop an all their prospective clients evade the all pervasive eye of Big Brother. 
 
