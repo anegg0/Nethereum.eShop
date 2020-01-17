@@ -19,10 +19,10 @@ As you probably know, the internet was not built with anonymity in mind, and it'
 
 An IP address can be viewed as open data: it transits through your ISP and all switches all the way to the destination server. For instance, your ISP could log timestamps of packets sent and associate them with withdrawal exchange timestamps. 
 
-Utilize a VPN or Tor to shroud your IP, particularly during a withdrawal. 
+**Solution**: utilize a VPN or Tor to mask your IP, particularly during a withdrawal. 
 
-The note contains information that can be utilized to connect your store with withdrawal. It is a smart thought to ensure that your note information is safely demolished after the withdrawal is finished. In the event that you, be that as it may, wish to permit another person to review your exchanges, you should keep the note information which can go about as survey key, yet simply after it is spent. 
+The order contain information that can associate your deposit with withdrawal. The safest measure is to delete it after the withdrawal is finished. In the event that you allow someone to review your exchanges, you should keep the order which can be used a proof of purchase in case of dispute. 
 
-Make sure you understood treats for dApps before utilizing your new location, provided that a dApp sees both old and new locations with similar treats it will realize that locations are from a similar proprietor. A decent method to do this is by utilizing another personality (program, wallet, IP) for the assets of your new location. 
+Make sure you delete any cookies related to your eShop before utilizing a VPN or Tor,  your new location, provided that a dApp sees both old and new locations with similar treats it will realize that locations are from a similar proprietor. A decent method to do this is by utilizing another personality (program, wallet, IP) for the assets of your new location. 
 
 In the event that you are utilizing an open RPC with every one of your wallets, it may realize that your addresses are connected, for instance, in the event that you utilize a similar IP or API token for various characters. Note that on the off chance that you keep your wallets in Metamask, it will consequently utilize similar API token for every one of your solicitations.
